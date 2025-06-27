@@ -68,5 +68,5 @@
  
 </div>
 <div align="center">
-  <h3>⚡ Code Smart, Build Real ⚡</h3>
+  <h3>⚡“Every bug is an opportunity to grow.”⚡</h3>
 </div>
