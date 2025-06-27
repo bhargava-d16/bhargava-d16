@@ -11,8 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhargava-d16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=000000&title_color=00FFAA&text_color=00FFAA&border_color=00FFAA" height="150" alt="Bhargav's top languages" />
 </div>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZrOXA5eno5bHpzOWwxbnhvaDdpcDUwcTRlcjRkazh2YmtjNmRqZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8uEN3vEZKibcjQwrJT/giphy.gif" alt="Programming GIF" />
-
 ## 🧠 About Me
 - 🚀 Pre-final year student at VJTI
 - 🌱 Currently diving into full-stack web development (MERN Stack)
